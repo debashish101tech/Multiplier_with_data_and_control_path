@@ -4,3 +4,4 @@ a) Data Path, which consists of the functional units where all computations are 
  Typically consists of registers, multiplexers, bus, adders, multipliers, counters, and other functional blocks. 
 b) Control Path, which implements a finite-state machine and provides control signals to the data path in proper sequence. 
  In response to the control signals, various operations are carried out by the data path. Also takes inputs from the data path regarding various status informa@on
+![Multipication](https://user-images.githubusercontent.com/74100841/210222764-de423e14-85f6-470f-b227-804734460dc2.png)
